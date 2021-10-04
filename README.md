@@ -75,7 +75,7 @@ By the end of this week you'll have leveled up your development skills!
 
 ## Get help
 
-Post in our Slack Channel
+Post in our Slack Channel!
 
 
 ## Resources
